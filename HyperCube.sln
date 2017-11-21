@@ -1,9 +1,23 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperCube.Sdk", "HyperCube.Sdk\HyperCube.Sdk.csproj", "{92586C56-B993-40D5-A0E9-8D2F5EA12A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperCube.Common", "HyperCube.Common\HyperCube.Common.csproj", "{64ECBDCC-81A3-4718-9273-950764F37F4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92586C56-B993-40D5-A0E9-8D2F5EA12A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92586C56-B993-40D5-A0E9-8D2F5EA12A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92586C56-B993-40D5-A0E9-8D2F5EA12A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92586C56-B993-40D5-A0E9-8D2F5EA12A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64ECBDCC-81A3-4718-9273-950764F37F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64ECBDCC-81A3-4718-9273-950764F37F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64ECBDCC-81A3-4718-9273-950764F37F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64ECBDCC-81A3-4718-9273-950764F37F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
